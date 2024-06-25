@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A C++ Programmer.
 <!--
 **KazihaAkaze/KazihaAkaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
